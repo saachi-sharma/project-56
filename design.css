@@ -1,0 +1,16 @@
+body{
+  background-color:linear-gradient(to right,pink,blue);
+  text-align:center;
+}
+img{
+    width:50%;
+    height:50%;
+    text-align: center;
+}
+p{
+    font-size:50px;
+}
+.sp.div{
+    margin:50px;
+}
+    
